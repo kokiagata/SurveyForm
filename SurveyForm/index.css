@@ -1,0 +1,189 @@
+#background {
+    background-size: 100%;
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url(https://images.pexels.com/photos/1080696/pexels-photo-1080696.jpeg?cs=srgb&dl=pexels-mark-mccammon-1080696.jpg&fm=jpg);
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 255, 0.2);
+    margin: 0;
+    position: relative;
+    top: 0px;
+  }
+  .container {
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+  }
+  #description {
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  #survey-form {
+    display: block;
+    background-color: rgba(0, 0, 255, 0.8);
+    width: 50%;
+    height: 100;
+    padding: 50px;
+    margin: auto auto auto auto;
+    border-radius: 10px;
+  }
+  #name-label {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: auto;
+    font-family: Gill Sans, sans-serif;
+  }
+  #name {
+    border: 1px solid blue;
+    border-radius: 5px;
+    width: 100%;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+  input:required {
+    border: red;
+    border: 10px;
+  }
+  #email-label {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-family: Gill Sans, sans-serif;
+  }
+  #email {
+    width: 100%;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid blue;
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+  #number-label {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-family: Gill Sans, sans-serif;
+  }
+  #number {
+    width: 100%;
+    height: 30px;
+    border: 1px solid blue;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+  }
+  #strategy {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 0px;
+    font-family: Gill Sans, sans-serif;
+  }
+  #dropdown {
+    width: 100%;
+    height: 30px;
+    border: 1px solid blue;
+    border-radius: 5px;
+    color: gray;
+    margin-top: 10px;
+  }
+  #homeownership {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-family: Gill Sans, sans-serif;
+  }
+  label {
+    font-size: 20px;
+  }
+  #House {
+    margin-top: auto;
+  }
+  #rent {
+    margin-top: 10px;
+  }
+  #househack {
+    margin-top: 10px;
+  }
+  #parents {
+    margin-top: 10px;
+  }
+  #parents {
+    margin-bottom: 20px;
+  }
+  #resources {
+    font-size: 20px;
+    Font-weight: bold;
+    font-family: Gill Sans, sans-serif;
+  }
+  #input5 {
+    width: 100%;
+    height: 30px;
+    border: 1px solid blue;
+    border-radius: 5px;
+    color: gray;
+    margin-bottom: 20px;
+    margin-top: 10px;
+  }
+  #types {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Gill Sans, sans-serif;
+  }
+  #SFR {
+    border: 1px solid blue;
+    margin-top: 10px
+  }
+  #MFH {
+    border: 1px solid blue;
+    margin-top: 10px;
+  }
+  #MHP {
+    border: 1px solid blue;
+    margin-top: 10px;
+  }
+  #commercial {
+    border: 1px solid blue;
+    margin-top: 10px;
+  }
+  #STR {
+    border: 1px solid blue;
+    margin-top: 10px;
+  }
+  #storage {
+    border: 1px solid blue;
+    margin-top: 10px;
+  }
+  #syndication {
+    border: 1px solid blue;
+    margin-bottom: 20px;
+    margin-top: 10px;
+  }
+  #label2 {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Gill Sans, sans-serif;
+  }
+  #comments {
+    width: 100%;
+    height: 100px;
+    border-radius: 5px;
+    border: 1px solid blue;
+    margin-top: 10px;
+  }
+  #submit {
+    width: 100%;
+    height: 30px;
+    color: white;
+    background-color: #32CD32;
+    font-size: 20px;
+  }
+  
